@@ -1,0 +1,130 @@
+.container{
+    display: flex;
+    padding: 1%;
+    height: 120vh;
+    background: #DDDDDD;
+}
+.menu{
+    background-color: black;
+    width: 15%;
+    padding-left: 3%;
+    border-radius: 30px;
+}
+.menu>h1{
+    color: #FFFFFF;
+    font-size: 36px;
+    font-weight: 700;
+}
+.menu>span{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 250%;
+}
+.menu-bottom{
+    margin-top: 125%;
+}
+.menu-bottom>h4{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/*****************************************nav********************************************* */
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: -1%;
+}
+.nav-left>p{
+    font-weight: 700;
+    font-size: 24px;
+}
+.nav-right{
+    display: flex;
+    justify-content:space-between;
+    width: 30%;
+}
+.nav-right>input{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+}
+/***************************************** Details*********************************** *** */
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -1%;
+    margin-bottom: 2%;
+}
+.details1{
+    background: #DDEFE0;
+    border-radius: 20px;
+    width: 22%;
+    padding: 1.5% 0 0 2%;
+    
+}
+.details1>p{
+    font-weight: 400;
+    font-size: 14px;
+}
+.details1>h4{
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -1%;
+}
+.details2{
+    background: #F4ECDD;
+    border-radius: 20px;
+    width: 22%;
+    padding: 1.5% 0 0 2%;
+}
+.details2>p{
+    font-weight: 400;
+    font-size: 14px;
+}
+.details2>h4{
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -1%;
+}
+.details3{
+    background: #EFDADA;
+    border-radius: 20px;
+    width: 22%;
+    padding: 1.5% 0 0 2%;
+}
+.details3>p{
+    font-weight: 400;
+    font-size: 14px;
+}
+.details3>h4{
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -1%;
+}
+.details4{
+    background: #DEE0EF;
+    border-radius: 20px;
+    width: 22%;
+    padding: 1.5% 0 0 2%;
+}
+.details4>p{
+    font-weight: 400;
+    font-size: 14px;
+}
+.details4>h4{
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -1%;
+}
+.options{
+    /* background-color: aqua; */
+    width: 85%;
+    margin: 0% 3%;
+}
+.org-line{
+    padding-bottom: 2%;
+}
+
